@@ -73,6 +73,7 @@ Text Color: "red"
 Shape: "Circle"
 Shape Color: "blue"
 
+<video src="examples/svg%20logo%20maker%20challenge.mp4" controls title="Walkthrough Video"></video>
   ## Contributing
   None
 
