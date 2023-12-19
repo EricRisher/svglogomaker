@@ -73,7 +73,7 @@ Text Color: "red"
 Shape: "Circle"
 Shape Color: "blue"
 
-  You can find a video walkthrough example [Here!](https://drive.google.com/file/d/16CphnF9tCw1JTYQzQXgMRkt6OoMKprGt/view?usp=drive_link)
+  You can find a video walkthrough example [Here!](https://drive.google.com/file/d/16CphnF9tCw1JTYQzQXgMRkt6OoMKprGt/view?usp=sharing)
 
   ## Contributing
   None
